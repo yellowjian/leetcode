@@ -9,3 +9,4 @@ LeetCode
 |1420|[生成数组](https://leetcode-cn.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons//) | | [js](./src/1420/1420.js) | |Hard|
 |0906|[超级回文数](https://leetcode-cn.com/problems/super-palindromes/) | | | [java](./src/0906/0906.java) | |Hard|
 |0891|[子序列宽度之和](https://leetcode-cn.com/problems/sum-of-subsequence-widths/) | | [js](./src/0891/0891.js) | |Hard|
+|0037|[解数独](https://leetcode-cn.com/problems/sudoku-solver/) | [c++](./src/0037/0037.cpp) | |Hard|
