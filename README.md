@@ -11,3 +11,4 @@ LeetCode
 |0891|[子序列宽度之和](https://leetcode-cn.com/problems/sum-of-subsequence-widths/) | | [js](./src/0891/0891.js) | |Hard|
 |0037|[解数独](https://leetcode-cn.com/problems/sudoku-solver/) | [c++](./src/0037/0037.cpp) | | |Hard|
 |0810|[黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/) | | [js](./src/0810/0810.js) | |Hard|
+|0030|[串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | | [js](./src/0030/0030.js) | |Hard|
