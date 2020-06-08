@@ -13,4 +13,4 @@ LeetCode
 |0810|[黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/) | | [js](./src/0810/0810.js) | |Hard|
 |0030|[串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | | [js](./src/0030/0030.js) | |Hard|
 |0834|[树中距离之和](https://leetcode-cn.com/problems/sum-of-distances-in-tree/) | | [js](./src/0834/0834.js) | |Hard|
-|0992|[K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | | [js](./src/0834/0834.js) | |Hard|
+|0992|[K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | | [js](./src/0992/0992.js) | |Hard|
