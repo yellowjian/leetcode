@@ -16,3 +16,4 @@ LeetCode
 |0992|[K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | | [js](./src/0992/0992.js) | |Hard|
 |0552|[学生出勤记录](https://leetcode-cn.com/problems/student-attendance-record-ii/) | | | [java](./src/0552/0552.java) |Hard|
 |0410|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/) | | [js](./src/0410/0410.js) | |Hard|
+|0805|[ 数组的均值分割](https://leetcode-cn.com/problems/split-array-with-same-average/) | [c++] (./src/0805/0805.cpp) | | |Hard|
