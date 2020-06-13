@@ -18,3 +18,4 @@ LeetCode
 |0410|[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/) | | [js](./src/0410/0410.js) | |Hard|
 |0805|[数组的均值分割](https://leetcode-cn.com/problems/split-array-with-same-average/) | [c++](./src/0805/0805.cpp) | | |Hard|
 |0208|[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | | | [java](./src/0208/0208.java) |Middle|
+|0064|[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) | | [js](./src/0064/0064.js) | |Middle|
