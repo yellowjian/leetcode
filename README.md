@@ -24,3 +24,4 @@ LeetCode
 |0647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/) | | [js](./src/0647/0647.js) | |Middle|
 |0131|[分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) | | [js](./src/0131/0131.js) | |Middle|
 |面试题 16.24.|[数对和](https://leetcode-cn.com/problems/pairs-with-sum-lcci/) | | [js](./src/1624/1624.js) | |Middle|
+|0673|[最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) | | [js](./src/0673/0673.js) | |Middle|
