@@ -26,3 +26,4 @@ LeetCode
 |面试题 16.24.|[数对和](https://leetcode-cn.com/problems/pairs-with-sum-lcci/) | | [js](./src/1624/1624.js) | |Middle|
 |0673|[最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) | | [js](./src/0673/0673.js) | |Middle|
 |0967|[连续差相同的数字](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/) | | [js](./src/0967/0967.js) | |Middle|
+|0400|[第N个数字](https://leetcode-cn.com/problems/nth-digit/) | | [js](./src/0400/0400.js) | |Middle|
