@@ -28,3 +28,4 @@ LeetCode
 |0967|[连续差相同的数字](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/) | | [js](./src/0967/0967.js) | |Middle|
 |0400|[第N个数字](https://leetcode-cn.com/problems/nth-digit/) | | [js](./src/0400/0400.js) | |Middle|
 |795|[区间子数组个数](https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum/) | | [js](./src/795/795.js) | |Middle|
+|738|[单调递增的数字](https://leetcode-cn.com/problems/monotone-increasing-digits/) | | [js](./src/738/738.js) | |Middle|
