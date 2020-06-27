@@ -31,3 +31,4 @@ LeetCode
 |738|[单调递增的数字](https://leetcode-cn.com/problems/monotone-increasing-digits/) | | [js](./src/738/738.js) | |Middle|
 |16|[最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | | [js](./src/16/16.js) | |Middle|
 |503|[下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/) | | [js](./src/503/503.js) | |Middle|
+|556|[下一个更大元素 III](https://leetcode-cn.com/problems/next-greater-element-iii/) | | [js](./src/556/556.js) | |Middle|
