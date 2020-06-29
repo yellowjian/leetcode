@@ -33,3 +33,4 @@ LeetCode
 |503|[下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/) | | [js](./src/503/503.js) | |Middle|
 |556|[下一个更大元素 III](https://leetcode-cn.com/problems/next-greater-element-iii/) | | [js](./src/556/556.js) | |Middle|
 |474|[一和零](https://leetcode-cn.com/problems/ones-and-zeroes/) | | [js](./src/474/474.js) | |Middle|
+|1498|[满足条件的子序列数目](https://leetcode-cn.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | | [js](./src/1498/1498.js) | |Middle|
