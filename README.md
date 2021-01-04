@@ -37,3 +37,4 @@ LeetCode
 |209|[长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | | [js](./src/209/209.js) | |Middle|
 |462|[最少移动次数使数组元素相等 II](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/) | | [js](./src/462/462.js) | |Middle|
 |1542|[找出最长的超赞子字符串](https://leetcode-cn.com/problems/find-longest-awesome-substring/) | | [js](./src/1542/1542.js) | |Hard|
+|1713|[得到子序列的最少操作次数](https://leetcode-cn.com/problems/minimum-operations-to-make-a-subsequence/) | | [js](./src/1713/1713.js) | |Hard|
