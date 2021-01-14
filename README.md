@@ -39,3 +39,4 @@ LeetCode
 |1542|[找出最长的超赞子字符串](https://leetcode-cn.com/problems/find-longest-awesome-substring/) | | [js](./src/1542/1542.js) | |Hard|
 |1713|[得到子序列的最少操作次数](https://leetcode-cn.com/problems/minimum-operations-to-make-a-subsequence/) | | [js](./src/1713/1713.js) | |Hard|
 |1723|[完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | | [js](./src/1723/1723.js) | |Hard|
+|139|[单词拆分](https://leetcode-cn.com/problems/word-break/) | | [js](./src/139/139.js) | |Middle|
